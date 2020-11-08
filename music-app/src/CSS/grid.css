@@ -355,6 +355,13 @@
 
 /* PC medium resolution */
 @media (min-width: 992px) and (max-width: 1199px) {
+  .player__box--controls i:not(:first-child) {
+    margin-left: 2.5rem;
+  }
+  .album img {
+    width: 100%;
+    left: 0;
+  }
   .grid.wide {
     max-width: 970px;
     margin: 0 auto;
@@ -514,6 +521,13 @@
 
 /* PC low resolution */
 @media (min-width: 1200px) {
+  .player__box--controls i:not(:first-child) {
+    margin-left: 2.5rem;
+  }
+  .album img {
+    width: 100%;
+    left: 0;
+  }
   .grid.wide {
     max-width: 1140px;
     margin: 0 auto;

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MusicApppp/static/css/main.91ccef42.chunk.css",
+    "main.js": "/MusicApppp/static/js/main.b539a003.chunk.js",
+    "main.js.map": "/MusicApppp/static/js/main.b539a003.chunk.js.map",
+    "runtime-main.js": "/MusicApppp/static/js/runtime-main.771262a8.js",
+    "runtime-main.js.map": "/MusicApppp/static/js/runtime-main.771262a8.js.map",
+    "static/js/2.a130edc1.chunk.js": "/MusicApppp/static/js/2.a130edc1.chunk.js",
+    "static/js/2.a130edc1.chunk.js.map": "/MusicApppp/static/js/2.a130edc1.chunk.js.map",
+    "index.html": "/MusicApppp/index.html",
+    "precache-manifest.2cffdaae163da8fe70bdb1887965cccc.js": "/MusicApppp/precache-manifest.2cffdaae163da8fe70bdb1887965cccc.js",
+    "service-worker.js": "/MusicApppp/service-worker.js",
+    "static/css/main.91ccef42.chunk.css.map": "/MusicApppp/static/css/main.91ccef42.chunk.css.map",
+    "static/js/2.a130edc1.chunk.js.LICENSE.txt": "/MusicApppp/static/js/2.a130edc1.chunk.js.LICENSE.txt",
+    "static/media/DeathBed.mp3": "/MusicApppp/static/media/DeathBed.2700dac0.mp3",
+    "static/media/HongDamDau.mp3": "/MusicApppp/static/media/HongDamDau.557ae9bf.mp3",
+    "static/media/KhongDamDau.jpg": "/MusicApppp/static/media/KhongDamDau.80877fb0.jpg",
+    "static/media/SummerTime.mp3": "/MusicApppp/static/media/SummerTime.89b1d297.mp3",
+    "static/media/SummerTime.jpg": "/MusicApppp/static/media/SummerTime.b163eb6f.jpg",
+    "static/media/VayHoaNhi.jpg": "/MusicApppp/static/media/VayHoaNhi.8111d086.jpg",
+    "static/media/VayHoaNhi.mp3": "/MusicApppp/static/media/VayHoaNhi.a6512b98.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.771262a8.js",
+    "static/js/2.a130edc1.chunk.js",
+    "static/css/main.91ccef42.chunk.css",
+    "static/js/main.b539a003.chunk.js"
+  ]
+}
